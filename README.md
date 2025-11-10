@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Celestial Embrace - Twenty-Second Forever Loving | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Well, missing that loving and peaceful moment? Here is a track just for you.
+Designed for background filling and enhance the loving feeling and all.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/22_Celestial-Embrace-Twenty-Second-Forever-Loving.mp3
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Device: 253,2   Inode: 42097345    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-10 19:14:45.376490847 +0800
+Modify: 2025-11-10 19:13:54.560255776 +0800
+Change: 2025-11-10 19:13:54.560255776 +0800
+ Birth: 2025-07-20 11:53:33.846221347 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-10
+On YouTube since : 2026-06-28
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=H1-L4dKJT0w)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Celestial Embrace - Twenty-Second Forever Loving
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-celestial-embrace-twenty-second-forever-loving
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
